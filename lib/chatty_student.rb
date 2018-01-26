@@ -9,4 +9,7 @@ class ChattyStudent < Student
     super
     10 times do
 
+
+    end
+
 end
